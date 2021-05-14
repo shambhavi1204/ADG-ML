@@ -62,4 +62,6 @@ The gradient ascent update equation becomes:
       
       As the data is present in csv dataframe so to perform operations convert to numpy array and the divide in training and testing data.
       
+      using the above mathematical concept and numpy compute the sutable value of variables for which the cost function reduces to a minimum value using gradient descent and then updating the value of parametes after every iteration.
+      
       
