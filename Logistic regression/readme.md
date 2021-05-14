@@ -51,3 +51,15 @@ The gradient ascent update equation becomes:
       used for weather forcast such as whether it is clound or ot will rain or not
       multiclass classification
       medical use like diagnosis of various disease.
+      
+      PROCEDURE:
+      
+      Import the necessary packages like pandas ,numpy and matplotlib.
+      
+      Read the data using pandas and display the first ten rows.
+
+      Draw the histogram of independent variables and observe the distribution and analyze the relation between different variable and its impact on the target value.
+      
+      As the data is present in csv dataframe so to perform operations convert to numpy array and the divide in training and testing data.
+      
+      
